@@ -1,0 +1,33 @@
+*   {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#nav-section    {
+    background: #191B27;
+}
+.nav-link   {
+    border-bottom: 1px solid #eee;
+}
+#inner-box  {
+    background: aliceblue;
+    width: 90%;
+    
+    padding: 1rem;
+   border: 2px solid maroon;
+    margin: 1rem auto;
+}
+h1  {
+    font-size: 2rem;
+    color: maroon;
+
+}
+h3  {
+    color: maroon;
+    font-size: 1.5rem;
+}
+p   {
+    line-height: 2rem;
+    color: maroon;
+    font-weight: 600;
+}
